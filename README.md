@@ -4,9 +4,9 @@ A discord bot that lets guild members share their spotify to vc!
 ## Setup
 Create a bot application at https://discord.com/developers/applications
 
-Copy the bot token into config.py and change any other settings that you wish there.
-
 Clone the repository and open it in a terminal.
+
+Copy the bot token into config.py and change any other settings that you wish there.
 
 Create a python virtual environment and activate it
 ```
