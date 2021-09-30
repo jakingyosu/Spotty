@@ -45,7 +45,7 @@ youtube-search-python==1.4.9
 
 You may have to install FFmpeg if you haven't already: https://www.wikihow.com/Install-FFmpeg-on-Windows
 
-run bot.py
+run launcher.py
 
 Enjoy!
 
